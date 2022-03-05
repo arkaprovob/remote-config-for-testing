@@ -15,7 +15,7 @@
           ]
         },
         "dest": {
-          "path": "/var/www/spaship/chrome/head",
+          "path": "/home/arkaprovo/spaship-test/chrome/head",
           "filename": "head.html"
         }
       },
@@ -32,7 +32,7 @@
           ]
         },
         "dest": {
-          "path": "/var/www/spaship/chrome/header",
+          "path": "/home/arkaprovo/spaship-test/chrome/header",
           "filename": "header.html"
         }
       },
@@ -49,7 +49,7 @@
           ]
         },
         "dest": {
-          "path": "/var/www/spaship/chrome/footer",
+          "path": "/home/arkaprovo/spaship-test/chrome/footer",
           "filename": "footer.html"
         }
       }
